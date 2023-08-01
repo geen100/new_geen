@@ -1,0 +1,72 @@
+.section{
+    display: block;
+    padding-left: 110px;
+    padding-top: 50px;
+    line-height: 1.7;
+    font-weight: bolder;
+    letter-spacing: 0.1em;
+}
+
+.img1{
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 350px;
+    margin-top: 10px;
+}
+
+h3 {
+    padding: 10px;
+    border-left: 4px solid #000;
+}
+
+h2 {
+    padding: 1rem 2rem;
+    border-left: 4px solid #000;
+}
+
+.img2{
+    width: 500px;
+    height: 300px;
+    margin-left: 200px;
+}
+
+.img4{      
+    float: left;
+    border-radius: 1em;
+    width: 250px;          
+    border: 1px solid rgba(242, 0, 69, 0.454)
+;
+    padding: 10px;
+    background-color:  rgb(238, 237, 234);
+    margin-left: 100px;
+    }      
+
+.haipa{
+    color: blueviolet;
+    border-radius: 1em;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+body{
+    background-image: linear-gradient(to left, rgb(124, 166, 255),rgb(253, 121, 121));
+}
+
+.block{      
+    border-radius: 1em;        
+    border: 3px solid rgba(242, 0, 69, 0.454); 
+    background-color:  rgb(238, 237, 234);
+    margin-left: 400px;
+    margin-right: 400px;
+}  
+
+table{
+    border-color: #353333;
+    width: 900px;
+    height: 300px;
+}
+
+.img3{
+    width: 300px;
+}
